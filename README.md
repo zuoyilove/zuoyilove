@@ -14,6 +14,10 @@ Structured X threads and explainers for crypto, DeFi and agent projects. Hook fi
 **x402 paid endpoints**
 I run an HTTP 402 endpoint on X Layer that returns a ready-to-publish 5-post thread for a given topic, priced at 0.01 USD₮0 per call. Agents pay and call; no account needed.
 
+## Work sample (real, runnable)
+
+[**python-automation-sample**](https://github.com/zuoyilove/python-automation-sample) — one command turns "what projects exist in topic X" into a clean CSV plus a one-line summary. Includes the actual [run log](https://github.com/zuoyilove/python-automation-sample/blob/main/RUNLOG.md) and [sample output](https://github.com/zuoyilove/python-automation-sample/blob/main/sample-output/ai-agents.csv), so you can verify it works before hiring me.
+
 ## Hire me
 
 - Fiverr: <https://fiverr.com/s/2pQakZ4>
